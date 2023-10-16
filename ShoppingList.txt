@@ -4,3 +4,5 @@ Apple
 Cherry
 Carrot
 Cereal
+Tomatoes
+Bananas
